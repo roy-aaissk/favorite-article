@@ -1,4 +1,4 @@
-module github.com/roy-aaissk/favorite-article.git
+module github.com/roy-aaissk/favorite-article
 
 go 1.16
 
